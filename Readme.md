@@ -1,3 +1,4 @@
+![ScreenShot](sc.png)
 # Dependencies
 
 * **To run it Python is must and in addtion to that you need mysql-connector**
